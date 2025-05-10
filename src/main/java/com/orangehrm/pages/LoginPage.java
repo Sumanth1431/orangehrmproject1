@@ -10,7 +10,7 @@ public class LoginPage {
 	private ActionDriver actiondriver;
 
 //define locators using BY class
-
+ 
 	private By userNameField = By.name("username");
 	private By userPassword = By.cssSelector("input[type='password']");
 	private By login = By.xpath("//button[text()=' Login ']");  

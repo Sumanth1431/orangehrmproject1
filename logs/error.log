@@ -188,3 +188,322 @@
 2025-04-28 18:03:13 [TestNG-test=OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
 2025-04-28 18:03:22 [TestNG-test=OrangeHRMTest-3] ERROR BaseClass - This is a error message
 2025-04-28 18:03:22 [TestNG-test=OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-09 15:43:17 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-09 15:43:17 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-09 15:43:20 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-09 15:43:20 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-09 15:43:20 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-09 15:43:20 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-09 15:43:20 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-09 15:43:20 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-09 15:43:29 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-09 15:43:29 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-09 16:50:00 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-09 16:50:00 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-09 16:50:00 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-09 16:50:00 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-09 16:50:01 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-09 16:50:01 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-09 16:50:01 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-09 16:50:01 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-09 16:50:11 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-09 16:50:11 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-09 16:52:57 [main] ERROR BaseClass - This is a error message
+2025-05-09 16:52:57 [main] FATAL BaseClass - This is a fatal message
+2025-05-09 16:53:06 [main] ERROR BaseClass - This is a error message
+2025-05-09 16:53:06 [main] FATAL BaseClass - This is a fatal message
+2025-05-09 16:53:39 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-09 16:53:39 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-09 16:53:40 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-09 16:53:40 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-09 16:53:40 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-09 16:53:40 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-09 16:53:40 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-09 16:53:40 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-09 16:53:51 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-09 16:53:51 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-09 18:13:12 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-09 18:13:12 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-09 18:13:12 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-09 18:13:12 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-09 18:13:12 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-09 18:13:12 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-09 18:13:13 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-09 18:13:13 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-09 18:13:21 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-09 18:13:21 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-09 21:19:20 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-09 21:19:20 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-09 21:19:20 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-09 21:19:20 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-09 21:19:21 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-09 21:19:21 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-09 21:20:54 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-09 21:20:54 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-09 21:20:55 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-09 21:20:55 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-09 21:20:55 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-09 21:20:55 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-09 21:26:13 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-09 21:26:13 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-09 21:26:13 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-09 21:26:13 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-09 21:28:43 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-09 21:28:43 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-09 21:28:43 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-09 21:28:43 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-09 21:30:31 [main] ERROR BaseClass - This is a error message
+2025-05-09 21:30:31 [main] FATAL BaseClass - This is a fatal message
+2025-05-09 21:30:39 [main] ERROR BaseClass - This is a error message
+2025-05-09 21:30:39 [main] FATAL BaseClass - This is a fatal message
+2025-05-09 21:32:40 [main] ERROR BaseClass - This is a error message
+2025-05-09 21:32:40 [main] FATAL BaseClass - This is a fatal message
+2025-05-09 21:32:48 [main] ERROR BaseClass - This is a error message
+2025-05-09 21:32:48 [main] FATAL BaseClass - This is a fatal message
+2025-05-09 21:34:33 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-09 21:34:33 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-09 21:34:33 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-09 21:34:33 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-09 21:42:01 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-09 21:42:01 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-09 21:42:01 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-09 21:42:01 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-09 21:49:49 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-09 21:49:49 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-09 21:49:49 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-09 21:49:49 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-09 21:50:06 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-09 21:50:06 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-09 21:50:19 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-09 21:50:19 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-09 21:50:47 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-09 21:50:47 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-09 21:50:48 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-09 21:50:48 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-09 21:51:19 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-09 21:51:19 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 14:38:07 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-10 14:38:07 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-10 14:38:16 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 14:38:16 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 14:38:26 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 14:38:26 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 14:38:37 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-10 14:38:37 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-10 19:17:16 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 19:17:16 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-10 19:17:16 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-10 19:17:16 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-10 19:17:16 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 19:17:16 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-10 19:17:18 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 19:17:18 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 19:18:42 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-10 19:18:42 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-10 19:18:42 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-10 19:18:42 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-10 19:18:42 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 19:18:42 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 19:18:42 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 19:18:42 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 19:21:56 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-10 19:21:56 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-10 19:21:56 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-10 19:21:56 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-10 19:21:56 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 19:21:56 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 19:21:56 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 19:21:56 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 19:23:29 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - not clicked an element
+2025-05-10 19:23:29 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - not clicked an element
+2025-05-10 19:24:30 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - unable to comapre texts:no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Invalid credentials']"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dd4eb78381e865fd7b579fceb4ab785a, findElement {using=xpath, value=//p[text()='Invalid credentials']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\suman\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50249}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50249/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dd4eb78381e865fd7b579fceb4ab785a
+2025-05-10 19:24:39 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 19:24:39 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 19:25:21 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - element is not displayed:no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='oxd-brand-banner']//img"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bc2912ee4f46f459d950e5ec73a58101, findElement {using=xpath, value=//div[@class='oxd-brand-banner']//img}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\suman\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50251}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50251/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bc2912ee4f46f459d950e5ec73a58101
+2025-05-10 19:25:40 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 19:25:40 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 19:25:40 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - text not entered:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=136.0.7103.93)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [11897ffc267963357e1f3e6c9d39b634, findElement {using=css selector, value=input[type='password']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\suman\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50489}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50489/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 11897ffc267963357e1f3e6c9d39b634
+2025-05-10 19:26:11 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - not clicked an element
+2025-05-10 19:26:11 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - not clicked an element
+2025-05-10 19:26:41 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - element is not displayed:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=136.0.7103.93)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [11897ffc267963357e1f3e6c9d39b634, findElement {using=xpath, value=//div[@class='oxd-brand-banner']//img}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\suman\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50489}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50489/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 11897ffc267963357e1f3e6c9d39b634
+2025-05-10 19:26:42 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - unable to comapre texts:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=136.0.7103.93)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7fbf2487816f86fc76ef142b01b160e2, findElement {using=xpath, value=//p[text()='Invalid credentials']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\suman\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50421}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50421/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7fbf2487816f86fc76ef142b01b160e2
+2025-05-10 19:26:45 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-10 19:26:45 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-10 19:26:46 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 19:26:46 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 19:26:47 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-10 19:26:47 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-10 19:26:47 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 19:26:47 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 19:26:48 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 19:26:48 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 19:26:50 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 19:26:50 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 19:26:57 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 19:26:57 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 19:26:59 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 19:26:59 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 19:27:10 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 19:27:10 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 19:27:18 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 19:27:18 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 19:27:34 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 19:27:34 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 19:28:20 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - not clicked an element
+2025-05-10 19:28:23 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - not clicked an element
+2025-05-10 19:29:25 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - unable to comapre texts:no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Invalid credentials']"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a77777430a8f88cb92e67ba5cc9cf4f4, findElement {using=xpath, value=//p[text()='Invalid credentials']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\suman\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50726}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50726/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a77777430a8f88cb92e67ba5cc9cf4f4
+2025-05-10 19:29:33 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 19:29:33 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 19:30:12 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - element is not displayed:no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='oxd-brand-banner']//img"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [891918ae2aae996dbf82392cdbc8fe5b, findElement {using=xpath, value=//div[@class='oxd-brand-banner']//img}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\suman\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50712}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50712/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 891918ae2aae996dbf82392cdbc8fe5b
+2025-05-10 19:31:54 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-10 19:31:54 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-10 19:31:54 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-10 19:31:54 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-10 19:31:57 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 19:31:57 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 19:31:57 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 19:31:57 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 19:32:08 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 19:32:08 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 19:32:09 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 19:32:09 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 19:32:26 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 19:32:26 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 19:33:50 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 19:33:50 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 19:33:53 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-10 19:33:53 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-10 19:33:53 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-10 19:33:53 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-10 19:33:53 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 19:33:53 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 19:34:02 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 19:34:02 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 19:34:05 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 19:34:05 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 19:34:21 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 19:34:21 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 19:38:10 [main] ERROR BaseClass - This is a error message
+2025-05-10 19:38:10 [main] FATAL BaseClass - This is a fatal message
+2025-05-10 19:38:18 [main] ERROR BaseClass - This is a error message
+2025-05-10 19:38:18 [main] FATAL BaseClass - This is a fatal message
+2025-05-10 19:38:26 [main] ERROR BaseClass - This is a error message
+2025-05-10 19:38:26 [main] FATAL BaseClass - This is a fatal message
+2025-05-10 19:38:34 [main] ERROR BaseClass - This is a error message
+2025-05-10 19:38:34 [main] FATAL BaseClass - This is a fatal message
+2025-05-10 19:38:43 [main] ERROR BaseClass - This is a error message
+2025-05-10 19:38:43 [main] FATAL BaseClass - This is a fatal message
+2025-05-10 19:42:14 [main] ERROR BaseClass - This is a error message
+2025-05-10 19:42:14 [main] FATAL BaseClass - This is a fatal message
+2025-05-10 19:42:19 [main] ERROR BaseClass - This is a error message
+2025-05-10 19:42:19 [main] FATAL BaseClass - This is a fatal message
+2025-05-10 19:42:25 [main] ERROR BaseClass - This is a error message
+2025-05-10 19:42:25 [main] FATAL BaseClass - This is a fatal message
+2025-05-10 19:42:30 [main] ERROR BaseClass - This is a error message
+2025-05-10 19:42:30 [main] FATAL BaseClass - This is a fatal message
+2025-05-10 19:42:36 [main] ERROR BaseClass - This is a error message
+2025-05-10 19:42:36 [main] FATAL BaseClass - This is a fatal message
+2025-05-10 19:45:54 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-10 19:45:54 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-10 19:45:55 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 19:45:55 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 19:45:55 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-10 19:45:55 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-10 19:45:55 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 19:45:55 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 19:46:06 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 19:46:06 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 19:46:10 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 19:46:10 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 19:46:20 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 19:46:20 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 19:47:56 [main] ERROR BaseClass - This is a error message
+2025-05-10 19:47:56 [main] FATAL BaseClass - This is a fatal message
+2025-05-10 19:48:02 [main] ERROR BaseClass - This is a error message
+2025-05-10 19:48:02 [main] FATAL BaseClass - This is a fatal message
+2025-05-10 19:48:10 [main] ERROR BaseClass - This is a error message
+2025-05-10 19:48:10 [main] FATAL BaseClass - This is a fatal message
+2025-05-10 19:48:15 [main] ERROR BaseClass - This is a error message
+2025-05-10 19:48:15 [main] FATAL BaseClass - This is a fatal message
+2025-05-10 19:48:21 [main] ERROR BaseClass - This is a error message
+2025-05-10 19:48:21 [main] FATAL BaseClass - This is a fatal message
+2025-05-10 19:50:34 [main] ERROR BaseClass - This is a error message
+2025-05-10 19:50:34 [main] FATAL BaseClass - This is a fatal message
+2025-05-10 19:50:42 [main] ERROR BaseClass - This is a error message
+2025-05-10 19:50:42 [main] FATAL BaseClass - This is a fatal message
+2025-05-10 19:50:51 [main] ERROR BaseClass - This is a error message
+2025-05-10 19:50:51 [main] FATAL BaseClass - This is a fatal message
+2025-05-10 19:50:57 [main] ERROR BaseClass - This is a error message
+2025-05-10 19:50:57 [main] FATAL BaseClass - This is a fatal message
+2025-05-10 19:51:04 [main] ERROR BaseClass - This is a error message
+2025-05-10 19:51:04 [main] FATAL BaseClass - This is a fatal message
+2025-05-10 19:55:37 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-10 19:55:37 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-10 19:55:37 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-10 19:55:37 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-10 19:55:37 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 19:55:37 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 19:55:37 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 19:55:37 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 19:55:46 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 19:55:46 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 19:55:50 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 19:55:50 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 19:56:03 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 19:56:03 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message

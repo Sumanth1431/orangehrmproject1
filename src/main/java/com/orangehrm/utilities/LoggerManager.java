@@ -5,7 +5,7 @@ import org.apache.logging.log4j.Logger;
 
 
 public class LoggerManager {
-
+ 
 	
 		
 		//This method returns a Logger instance for the provided class

@@ -22,7 +22,7 @@ public class ExtentManager {
 
 	
 	private static ExtentReports  extent;
-	private static ThreadLocal<ExtentTest> test = new ThreadLocal();
+	private static ThreadLocal<ExtentTest> test = new ThreadLocal<ExtentTest>();
 	private static Map<Long, WebDriver> driverMap = new HashMap<>();
 
 
@@ -94,6 +94,16 @@ public class ExtentManager {
 			getTest().fail(logMessage);
 			//Screenshot method
 			attachScreenshot(driver,screenShotMessage);
+		}
+		//Log a step validation for API
+		public static void logStepValidationForAPI(String logMessage) {
+			getTest().pass(logMessage);
+		}
+		
+		//Log a Failure for API
+		public static void logFailureAPI(String logMessage) {
+			String colorMessage = String.format("<span style='color:red;'>%s</span>", logMessage);
+			getTest().fail(colorMessage);
 		}
 	
 		//Log a skip

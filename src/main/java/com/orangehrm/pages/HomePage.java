@@ -9,7 +9,7 @@ public class HomePage {
 	private ActionDriver actiondriver;
 
 	// Define locators using By class
-
+ 
 	private By adminTab = By.xpath("//span[text()='Admin']");
 	private By userIdButton = By.className("oxd-userdropdown-name");
 	private By logout = By.xpath("//a[text()='Logout']");

@@ -19,6 +19,7 @@ import org.openqa.selenium.firefox.FirefoxOptions;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
+import org.testng.asserts.SoftAssert;
 
 import com.orangehrm.actiondriver.ActionDriver;
 import com.orangehrm.utilities.ExtentManager;
@@ -35,12 +36,19 @@ public class BaseClass {
 	
 	
 	public static final Logger logger = LoggerManager.getLogger(BaseClass.class);
+	
+	protected ThreadLocal<SoftAssert> softAssert = ThreadLocal.withInitial(SoftAssert::new);
+
+	// Getter method for soft assert
+	public SoftAssert getSoftAssert() {
+		return softAssert.get();
+	}
 	@BeforeSuite
 	// load the configuration file
 	public void loadConfig() throws IOException {
 
 		prop = new Properties();
-		FileInputStream fis = new FileInputStream("src/main/resources/config.properties");
+		FileInputStream fis = new FileInputStream(System.getProperty("user.dir") + "/src/main/resources/config.properties");
 		prop.load(fis);
 		logger.info("config.properties file loaded");
 	}
@@ -68,12 +76,6 @@ public class BaseClass {
 				// Start the Extent Report
 				// ExtentManager.getReporter(); //--This has been implemented in TestListener
 				
-//	//// Initialize the actionDriver only once
-//		if (actiondriver == null) {
-//			
-//			actiondriver = new ActionDriver(driver);
-//			System.out.println("actiondriver instance is created");
-//		}
 
 	}
 
@@ -84,9 +86,9 @@ public class BaseClass {
 		if (browser.equalsIgnoreCase("chrome")) {
 			// Create ChromeOptions
 						ChromeOptions options = new ChromeOptions();
-//						options.addArguments("--headless"); // Run Chrome in headless mode
-//						options.addArguments("--disable-gpu"); // Disable GPU for headless mode
-//						options.addArguments("--window-size=1920,1080"); // Set window size
+						options.addArguments("--headless"); // Run Chrome in headless mode
+						options.addArguments("--disable-gpu"); // Disable GPU for headless mode
+						options.addArguments("--window-size=1920,1080"); // Set window size
 						options.addArguments("--disable-notifications"); // Disable browser notifications
 						options.addArguments("--no-sandbox"); // Required for some CI environments like Jenkins
 						options.addArguments("--disable-dev-shm-usage"); // Resolve issues in resource-limited environments
@@ -100,10 +102,10 @@ public class BaseClass {
 			//driver = new FirefoxDriver();
 			// Create FirefoxOptions
 						FirefoxOptions options = new FirefoxOptions();
-//						options.addArguments("--headless"); // Run Firefox in headless mode
-//						options.addArguments("--disable-gpu"); // Disable GPU rendering (useful for headless mode)
-//						options.addArguments("--width=1920"); // Set browser width
-//						options.addArguments("--height=1080"); // Set browser height
+						options.addArguments("--headless"); // Run Firefox in headless mode
+						options.addArguments("--disable-gpu"); // Disable GPU rendering (useful for headless mode)
+						options.addArguments("--width=1920"); // Set browser width
+						options.addArguments("--height=1080"); // Set browser height
 						options.addArguments("--disable-notifications"); // Disable browser notifications
 						options.addArguments("--no-sandbox"); // Needed for CI/CD environments
 						options.addArguments("--disable-dev-shm-usage"); // Prevent crashes in low-resource environments
@@ -116,9 +118,9 @@ public class BaseClass {
 		} else if (browser.equalsIgnoreCase("edge")) {
 			//driver = new EdgeDriver();
 			EdgeOptions options = new EdgeOptions();
-//			options.addArguments("--headless"); // Run Edge in headless mode
-//			options.addArguments("--disable-gpu"); // Disable GPU acceleration
-//			options.addArguments("--window-size=1920,1080"); // Set window size
+			options.addArguments("--headless"); // Run Edge in headless mode
+			options.addArguments("--disable-gpu"); // Disable GPU acceleration
+			options.addArguments("--window-size=1920,1080"); // Set window size
 			options.addArguments("--disable-notifications"); // Disable pop-up notifications
 			options.addArguments("--no-sandbox"); // Needed for CI/CD
 			options.addArguments("--disable-dev-shm-usage"); // Prevent resource-limited crashes
@@ -164,7 +166,7 @@ public class BaseClass {
 		driver.remove();
 		actiondriver.remove();
 		
-		ExtentManager.endTest();// --This has been implemented in TestListener
+		//ExtentManager.endTest();// --This has been implemented in TestListener
 	}
 	
 	// Getter Method for WebDriver

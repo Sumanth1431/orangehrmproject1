@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <configuration status="WARN">
-    <appenders>
+    <appenders> 
         <!-- Console Appender -->
         <console name="Console" target="SYSTEM_OUT">
             <patternlayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %C{1} - %msg%n" />
