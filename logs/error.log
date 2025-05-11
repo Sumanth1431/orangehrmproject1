@@ -507,3 +507,181 @@ Session ID: 891918ae2aae996dbf82392cdbc8fe5b
 2025-05-10 19:55:50 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
 2025-05-10 19:56:03 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
 2025-05-10 19:56:03 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 20:28:09 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 20:28:09 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-10 20:28:09 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 20:28:09 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-10 20:28:09 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-10 20:28:09 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-10 20:28:12 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 20:28:12 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 20:30:59 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-10 20:30:59 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-10 20:31:02 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-10 20:31:02 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-10 20:31:02 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 20:31:02 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 20:31:02 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 20:31:02 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 20:32:35 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - not clicked an element
+2025-05-10 20:32:36 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - not clicked an element
+2025-05-10 20:33:29 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-10 20:33:29 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-10 20:33:29 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-10 20:33:29 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-10 20:33:32 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 20:33:32 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 20:33:33 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 20:33:33 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 20:33:37 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - unable to comapre texts:no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Invalid credentials']"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [97af140a422db100eb2faf119c40444c, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\suman\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55162}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55162/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 97af140a422db100eb2faf119c40444c
+2025-05-10 20:33:45 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 20:33:45 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 20:34:37 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-10 20:34:37 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-10 20:34:40 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-10 20:34:40 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-10 20:34:40 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 20:34:40 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 20:34:41 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 20:34:41 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 20:35:05 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - not clicked an element
+2025-05-10 20:35:06 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - not clicked an element
+2025-05-10 20:36:07 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - unable to comapre texts:no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Invalid credentials']"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d9c7a62ee8a1a4d8cc869cff8c0f22f4, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\suman\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55356}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55356/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9c7a62ee8a1a4d8cc869cff8c0f22f4
+2025-05-10 20:36:14 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - not clicked an element
+2025-05-10 20:36:15 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - not clicked an element
+2025-05-10 20:36:15 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 20:36:15 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 20:37:16 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - unable to comapre texts:no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Invalid credentials']"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a6b7f1d1b44ea0aa767868b94ac4a233, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\suman\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55519}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55519/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a6b7f1d1b44ea0aa767868b94ac4a233
+2025-05-10 20:37:25 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 20:37:25 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 20:38:07 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - element is not displayed:no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='oxd-brand-banner']//img"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [96372c22b5b0576270dbc81c41fa53c7, findElement {value=//div[@class='oxd-brand-banner']//img, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\suman\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55526}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55526/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 96372c22b5b0576270dbc81c41fa53c7
+2025-05-10 20:38:26 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 20:38:26 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 20:38:58 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - not clicked an element
+2025-05-10 20:39:59 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - unable to comapre texts:no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Invalid credentials']"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d04e988576948dec900e30938205b4f6, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\suman\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55723}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55723/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d04e988576948dec900e30938205b4f6
+2025-05-10 20:39:59 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - not clicked an element
+2025-05-10 20:40:07 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 20:40:07 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 20:41:40 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - not clicked an element
+2025-05-10 20:41:51 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - element is not displayed:no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='oxd-brand-banner']//img"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [01a9aa42a520e622d60c592eee5bd735, findElement {value=//div[@class='oxd-brand-banner']//img, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\suman\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55863}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55863/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 01a9aa42a520e622d60c592eee5bd735
+2025-05-10 20:42:07 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 20:42:07 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 20:42:19 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 20:42:19 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 20:42:41 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - unable to comapre texts:no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Invalid credentials']"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a340c3243d08cff581fa5f941bf1f791, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\suman\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55998}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55998/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a340c3243d08cff581fa5f941bf1f791
+2025-05-10 20:42:47 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 20:42:47 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 20:43:04 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 20:43:04 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 21:21:42 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-10 21:21:42 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-10 21:21:44 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 21:21:44 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 21:21:44 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-10 21:21:44 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-10 21:21:44 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 21:21:44 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 21:21:53 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 21:21:53 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 21:21:57 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 21:21:57 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 21:22:10 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 21:22:10 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 21:23:12 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 21:23:12 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-10 21:23:12 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-10 21:23:12 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 21:23:12 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 21:23:12 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-10 21:23:12 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 21:23:12 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-10 21:23:24 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 21:23:24 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 21:23:25 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 21:23:25 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 21:23:42 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 21:23:42 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 22:22:41 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-10 22:22:41 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-10 22:22:41 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 22:22:41 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 22:22:41 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-10 22:22:41 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-10 22:22:42 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 22:22:42 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 22:22:51 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 22:22:51 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 22:22:57 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 22:22:57 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 22:23:08 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 22:23:08 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 22:24:16 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2025-05-10 22:24:16 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2025-05-10 22:24:18 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2025-05-10 22:24:18 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2025-05-10 22:24:18 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 22:24:18 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 22:24:18 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 22:24:18 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 22:24:30 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2025-05-10 22:24:30 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2025-05-10 22:24:33 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 22:24:33 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2025-05-10 22:24:50 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2025-05-10 22:24:50 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
